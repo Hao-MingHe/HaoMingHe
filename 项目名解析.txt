@@ -1,0 +1,6 @@
+article.html--------个人博客
+diary.html---------日记
+index.html--------主文件（索引）
+link.html----------友情链接
+message.html----留言板
+read.html--------文档阅读
